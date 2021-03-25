@@ -1,2 +1,14 @@
-# Godot-Project-Template
-2D Project Template for Godot
+# Project Name
+Context and date
+
+Description
+
+## Implementation
+Which features you included
+
+## References
+
+## Future Development
+
+## Created by
+Jason Francis
